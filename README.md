@@ -5,6 +5,10 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 
 **Trạng thái:** Hoàn thành
 
+>[!NOTE]
+>Sinh viên thực hiện: Trần Việt Anh
+>
+>Lớp: 23CS-GM
 ---
 
 ## 📚 Mục Lục
