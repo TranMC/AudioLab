@@ -30,7 +30,8 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Mục tiêu** | Hiểu cách sử dụng AudioSource và điều khiển âm thanh qua code |
 | **Kết quả** | ✅ Âm thanh phát/dừng chính xác, không tự động phát lúc load |
 | **Kiến thức** | AudioSource, Play(), Stop() |
-| **Video** | [text](https://github.com/user-attachments/assets/30d96567-ada5-47a3-86f9-97bf33966678) |
+| **Video** | https://github.com/user-attachments/assets/30d96567-ada5-47a3-86f9-97bf33966678 |
+
 
 ---
 
@@ -48,7 +49,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 |-----------|---------|
 | **Kết quả** | ✅ Âm thanh 2D/3D hoạt động đúng theo khoảng cách |
 | **Kiến thức** | Spatial Blend, AudioListener, 3D positioning |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/6d9fa92f-238e-4610-bc20-32e7a6cbdddf) |
+| **Video** | https://github.com/user-attachments/assets/6d9fa92f-238e-4610-bc20-32e7a6cbdddf |
 
 ---
 
@@ -63,7 +64,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Mục tiêu** | Kiểm soát âm thanh toàn cục qua AudioListener |
 | **Kết quả** | ✅ Master volume và pause hoạt động chính xác |
 | **Kiến thức** | AudioListener.volume, Time.timeScale |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/13587ce9-7de7-420b-9610-434308ddf58e) |
+| **Video** | https://github.com/user-attachments/assets/13587ce9-7de7-420b-9610-434308ddf58e |
 
 ---
 
@@ -83,7 +84,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Mục tiêu** | Tối ưu hiệu năng audio |
 | **Kết quả** | ✅ BGM/SFX được cấu hình tối ưu |
 | **Kiến thức** | AudioClip settings, Load Type, Compression |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/7fcd7d09-ecc4-4d39-b8b3-e6c561c2dc29) |
+| **Video** | https://github.com/user-attachments/assets/7fcd7d09-ecc4-4d39-b8b3-e6c561c2dc29 |
 
 ---
 
@@ -96,7 +97,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Mô tả** | Sử dụng VideoPlayer component phát video trong scene |
 | **Kết quả** | ✅ Video phát đúng, không lỗi hình ảnh/âm thanh |
 | **Kiến thức** | VideoPlayer, Play(), Pause() |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/38ea279a-9a72-45fc-af6f-78d7a0684243) |
+| **Video** | https://github.com/user-attachments/assets/38ea279a-9a72-45fc-af6f-78d7a0684243 |
 
 ---
 
@@ -118,7 +119,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Ứng dụng** | Màn hình TV, Intro cutscene, Video trên đối tượng 3D |
 | **Kết quả** | ✅ Video hiển thị đúng trên UI |
 | **Kiến thức** | RenderTexture, VideoPlayer target texture |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/f8b992d4-767e-4601-b46a-e399e6db10a8) |
+| **Video** | https://github.com/user-attachments/assets/f8b992d4-767e-4601-b46a-e399e6db10a8 |
 
 ---
 
@@ -133,7 +134,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Mục tiêu** | Kiểm soát video bằng event |
 | **Kết quả** | ✅ Video được kiểm soát hoàn toàn bằng event |
 | **Kiến thức** | VideoPlayer events, event callbacks |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/934e470e-a131-4870-8207-6af822fe7152) |
+| **Video** | https://github.com/user-attachments/assets/934e470e-a131-4870-8207-6af822fe7152 |
 
 ---
 
@@ -150,7 +151,7 @@ Dự án thực hành toàn diện về **Audio** và **Video** trong Unity, bao
 | **Mục tiêu** | Tổng hợp kiến thức Audio & Video |
 | **Kết quả** | ✅ Intro mượt, không lỗi, Skip hoạt động, load gameplay chính xác |
 | **Kiến thức** | Kết hợp toàn bộ kiến thức từ Lab 1-7 |
-| **Video** | [▶️ Xem video](https://github.com/user-attachments/assets/680851db-18ef-46c9-9efe-b8603ef72801) |
+| **Video** | https://github.com/user-attachments/assets/680851db-18ef-46c9-9efe-b8603ef72801 |
 
 ---
 
