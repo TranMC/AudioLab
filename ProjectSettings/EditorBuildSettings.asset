@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Lab2.unity
     guid: 17a1cf4c80564eb43b9644bb3339495e
   - enabled: 1
+    path: Assets/Scenes/MiniProject.unity
+    guid: 755040300b9190a48a808627de9a7a89
+  - enabled: 1
     path: Assets/Scenes/Lab1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
